@@ -2,6 +2,7 @@
 __pycache__/
 *.py[cod]
 *$py.class
+put_files_to_read_here/*
 
 # C extensions
 *.so
